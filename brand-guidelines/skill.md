@@ -174,7 +174,7 @@ This skill provides the visual and structural guidelines to ensure consistency w
 | **Spacing Giant** | 96px | **Hero Sections:** Maximum alignment space for main containers and hero headers. |
 
 
-##Grid
+## Grid
 
 ### XL Devices
 
